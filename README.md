@@ -8,5 +8,5 @@ Horiseon is a Search Engine Optimization company
  
 ## Visit Our Website
  
-[SEO Website](https://bradburr-github.github.io/SEO-Website/)
+[SEO Website](https://bradburr-github.github.io/SEO-Website/Develop/index.html)
  
